@@ -1,0 +1,12 @@
+{
+    "python.formatting.provider": "black",
+    "cSpell.language": "en,fr",
+    "esbonio.sphinx.confDir": "",
+    "spellright.language": [
+        "fr"
+    ],
+    "spellright.documentTypes": [
+        "latex",
+        "plaintext"
+    ]
+}
